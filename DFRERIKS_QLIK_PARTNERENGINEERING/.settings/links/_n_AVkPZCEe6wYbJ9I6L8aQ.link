@@ -1,0 +1,59 @@
+{
+  "itemId" : "_n_AVkPZCEe6wYbJ9I6L8aQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_lvOrQPcGEe6L_Mb2Cq55Yw",
+    "parameterList" : [ {
+      "id" : "_lvkpgfcGEe6L_Mb2Cq55Yw",
+      "name" : "SnowflakeTEST_db"
+    }, {
+      "id" : "_lvkpgvcGEe6L_Mb2Cq55Yw",
+      "name" : "SnowflakeTEST_oauthProperties_scope"
+    }, {
+      "id" : "_lvkpg_cGEe6L_Mb2Cq55Yw",
+      "name" : "SnowflakeTEST_regionID"
+    }, {
+      "id" : "_lvkphPcGEe6L_Mb2Cq55Yw",
+      "name" : "SnowflakeTEST_oauthProperties_clientSecret"
+    }, {
+      "id" : "_lvkphfcGEe6L_Mb2Cq55Yw",
+      "name" : "SnowflakeTEST_jdbcParameters"
+    }, {
+      "id" : "_lvkphvcGEe6L_Mb2Cq55Yw",
+      "name" : "SnowflakeTEST_schemaName"
+    }, {
+      "id" : "_lvkph_cGEe6L_Mb2Cq55Yw",
+      "name" : "SnowflakeTEST_role"
+    }, {
+      "id" : "_lvkpiPcGEe6L_Mb2Cq55Yw",
+      "name" : "SnowflakeTEST_account"
+    }, {
+      "id" : "_lvkpifcGEe6L_Mb2Cq55Yw",
+      "name" : "SnowflakeTEST_userPassword_userId"
+    }, {
+      "id" : "_lvkpivcGEe6L_Mb2Cq55Yw",
+      "name" : "SnowflakeTEST_userPassword_password"
+    }, {
+      "id" : "_lvkpi_cGEe6L_Mb2Cq55Yw",
+      "name" : "SnowflakeTEST_loginTimeout"
+    }, {
+      "id" : "_lvkpjPcGEe6L_Mb2Cq55Yw",
+      "name" : "SnowflakeTEST_warehouse"
+    }, {
+      "id" : "_lvkpjfcGEe6L_Mb2Cq55Yw",
+      "name" : "SnowflakeTEST_oauthProperties_oauthUserName"
+    }, {
+      "id" : "_lvkpjvcGEe6L_Mb2Cq55Yw",
+      "name" : "SnowflakeTEST_oauthProperties_clientId"
+    }, {
+      "id" : "_lvkpj_cGEe6L_Mb2Cq55Yw",
+      "name" : "SnowflakeTEST_oauthProperties_oauthPassword"
+    }, {
+      "id" : "_lvkpkPcGEe6L_Mb2Cq55Yw",
+      "name" : "SnowflakeTEST_keyAlias"
+    }, {
+      "id" : "_lvkpkfcGEe6L_Mb2Cq55Yw",
+      "name" : "SnowflakeTEST_oauthProperties_oauthTokenEndpoint"
+    } ]
+  } ]
+}
