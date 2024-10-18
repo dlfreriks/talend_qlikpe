@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_znlHUN-jEeupFLuk6IoN3w" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_BuzgsN-kEeupFLuk6IoN3w" comment="" name="S3_URL" prompt="S3_URL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="s3://parquet-file-to-sf-table"/>
+  <contextParameter xmi:id="_katM4OBFEeuVY-6i8CLaDg" comment="" name="BUCKET_NAME" prompt="BUCKET_NAME?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="parquet-file-to-sf-table"/>
+  <contextParameter xmi:id="_96c9sOBFEeuVY-6i8CLaDg" comment="" name="FOLDER" prompt="FOLDER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="parquet-files"/>
+</talendfile:ContextType>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_hhvwEN-zEeuFKewfRq0PBw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_hhvwEd-zEeuFKewfRq0PBw" comment="" name="SF_STAGE" prompt="SF_STAGE?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="stg_parquet_file_with_file_format"/>
+  <contextParameter xmi:id="_hhvwEt-zEeuFKewfRq0PBw" comment="" name="SF_LNDNG_TBL" prompt="SF_LNDNG_TBL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="service_requests"/>
+  <contextParameter xmi:id="_hhvwE9-zEeuFKewfRq0PBw" comment="" name="SF_SCD_TBL" prompt="SF_SCD_TBL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="service_requests_scd"/>
+</talendfile:ContextType>

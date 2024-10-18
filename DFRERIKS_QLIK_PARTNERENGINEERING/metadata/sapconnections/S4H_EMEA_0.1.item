@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.foundation.businessinformation="http:///orgomg/cwm/foundation/businessinformation.ecore">
-  <TalendMetadata:SAPConnection xmi:id="_f8lsUJAlEe2iSKzeenCBvg" id="_f8ipAJAlEe2iSKzeenCBvg" dataPackage="_1mHRwLwpEe6JnNxONi4m-Q" Host="34.248.236.6" Username="DFS" Password="enc:system.encryption.key.v1:rjgh8Xz9rNWK9svQH0vNnhgBK+uZSbitLam7PCevsmpXYzVhc+I=" Client="100" SystemNumber="00" Language="EN" jcoVersion="SAP2">
+  <TalendMetadata:SAPConnection xmi:id="_f8lsUJAlEe2iSKzeenCBvg" id="_f8ipAJAlEe2iSKzeenCBvg" dataPackage="_1mHRwLwpEe6JnNxONi4m-Q" Host="34.248.236.6" Username="DFS" Password="enc:system.encryption.key.v1:xNVXBEuIsb42I/PE1QCD+165efD6/wMGRd48XsIDq9ENW9a4IDw=" Client="100" SystemNumber="00" Language="EN" jcoVersion="SAP2">
     <taggedValue xmi:id="_f8lsUZAlEe2iSKzeenCBvg" tag="adsoConnectionType" value="SAP_JCO"/>
     <Funtions xmi:id="_a-qowPh7Ee2THdcj88eCnA" name="SAPBC_GLOBAL_AGENCY_CREATE" description="_a-zLoPh7Ee2THdcj88eCnA" id="_KkNBcPh7Ee2THdcj88eCnA" label="SAPBC_GLOBAL_AGENCY_CREATE" connection="_f8lsUJAlEe2iSKzeenCBvg">
       <tables xmi:id="_a-qowfh7Ee2THdcj88eCnA" name="SINGLE_PARAM" id="_KzQxJfh7Ee2THdcj88eCnA" label="SINGLE_PARAM" tableType="OUTPUT">
@@ -4480,7 +4480,7 @@
         </outputRoot>
       </paramData>
     </Funtions>
-    <additionalProperties xmi:id="_0kywYIs6Ee-xNNqnmodo8w" propertyName="api.use_z_talend_read_table" Value="true"/>
+    <additionalProperties xmi:id="_YkrfIIs7Ee-tc-yIZ6aE3g" propertyName="api.use_z_talend_read_table" Value="true"/>
   </TalendMetadata:SAPConnection>
   <TalendMetadata:GenericPackage xmi:id="_1mHRwLwpEe6JnNxONi4m-Q" name="S4H_EMEA" dataManager="_f8lsUJAlEe2iSKzeenCBvg">
     <ownedElement xsi:type="TalendMetadata:SAPTable" xmi:id="_1mIf4LwpEe6JnNxONi4m-Q" name="ACDOCA" id="_XHqXwPSmEe2qM4vTJpDrRw" label="ACDOCA" tableType="TABLE" tableSearchType="TRANSPARENT">
@@ -10134,33 +10134,33 @@
       <additionalProperties xmi:id="_1mNaprwpEe6JnNxONi4m-Q" key="CONTENT_TYPE" value="METADATA_SAP_CONTENT_EXTRACTOR"/>
     </ownedElement>
   </TalendMetadata:GenericPackage>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_j7KFcP-IEe2AndfjqX1HPw" body="Change Flight Customer" modelElement="_j7F0AP-IEe2AndfjqX1HPw"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_0NK7YP-IEe2AndfjqX1HPw" body="Create Internet user for a customer" modelElement="_0NHRAP-IEe2AndfjqX1HPw"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_Hb7PQP-JEe2AndfjqX1HPw" body="Cancel trip" modelElement="_Hb4L8P-JEe2AndfjqX1HPw"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_KoIFgP-JEe2AndfjqX1HPw" body="Create flight" modelElement="_KoD0EP-JEe2AndfjqX1HPw"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_CEhs4PcHEe6L_Mb2Cq55Yw" body="Create and Change Material Master Data" modelElement="_CEURgPcHEe6L_Mb2Cq55Yw"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_1TRlQPXEEe6xip1fHPZcEg" body="Only for ONLINE Store!!! Check Personal Data of a Customer" modelElement="_1TMswPXEEe6xip1fHPZcEg"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_tORPkP-IEe2AndfjqX1HPw" body="Check Internet password" modelElement="_tOOMQP-IEe2AndfjqX1HPw"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_ka8dkPXBEe6xip1fHPZcEg" body="Only for ONLINE store!!! Customer: Change Customer" modelElement="_ka4MIPXBEe6xip1fHPZcEg"/>
   <orgomg.cwm.foundation.businessinformation:Description xmi:id="_evkKUP-IEe2AndfjqX1HPw" body="Find details about a flight connection" modelElement="_evhHAP-IEe2AndfjqX1HPw"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_VQ3bQP-IEe2AndfjqX1HPw" body="Determine list of flight bookings" modelElement="_VQ0X8P-IEe2AndfjqX1HPw"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_yTbA8P-HEe2AndfjqX1HPw" body="Check flight availability" modelElement="_yTWIcP-HEe2AndfjqX1HPw"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_ZLxKkP-IEe2AndfjqX1HPw" body="" modelElement="_ZLs5IP-IEe2AndfjqX1HPw"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_JW0rIP-IEe2AndfjqX1HPw" body="Confirm Flight Booking" modelElement="_JWxn0P-IEe2AndfjqX1HPw"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_7Wot4P-HEe2AndfjqX1HPw" body="Find list of flights" modelElement="_7WkccP-HEe2AndfjqX1HPw"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_we89MP-IEe2AndfjqX1HPw" body="Create New Flight Customer" modelElement="_we4rwP-IEe2AndfjqX1HPw"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_NfmeYP-IEe2AndfjqX1HPw" body="" modelElement="_Nfi0AP-IEe2AndfjqX1HPw"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_3i59kP-HEe2AndfjqX1HPw" body="Find details about a flight" modelElement="_3i2TMP-HEe2AndfjqX1HPw"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_Ftxg0P-IEe2AndfjqX1HPw" body="Cancel Flight Booking" modelElement="_Ftt2cP-IEe2AndfjqX1HPw"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_a-zLoPh7Ee2THdcj88eCnA" body="" modelElement="_a-qowPh7Ee2THdcj88eCnA"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_TXDP4PlnEe2THdcj88eCnA" body="Reads customers and addresses" modelElement="_TXAzoPlnEe2THdcj88eCnA"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_R2Ad8P-IEe2AndfjqX1HPw" body="Create Flight Booking" modelElement="_R18zkP-IEe2AndfjqX1HPw"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_-anm8PcGEe6L_Mb2Cq55Yw" body="Determine Details for a Material" modelElement="_-aY9cPcGEe6L_Mb2Cq55Yw"/>
   <orgomg.cwm.foundation.businessinformation:Description xmi:id="_jURCAPXEEe6xip1fHPZcEg" body="Change Customer Master Online" modelElement="_jUKUUPXEEe6xip1fHPZcEg"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_yZYggPlcEe2THdcj88eCnA" body="Determine Details for a Material" modelElement="_yZUPEPlcEe2THdcj88eCnA"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="__dJQQP-HEe2AndfjqX1HPw" body="Save replicated flight data" modelElement="__dFl4P-HEe2AndfjqX1HPw"/>
   <orgomg.cwm.foundation.businessinformation:Description xmi:id="_3w6H4P-IEe2AndfjqX1HPw" body="Determine List of Flight Customers" modelElement="_3w2dgP-IEe2AndfjqX1HPw"/>
-  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_pWwLcP-IEe2AndfjqX1HPw" body="Change Internet password" modelElement="_pWshEP-IEe2AndfjqX1HPw"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_NfmeYP-IEe2AndfjqX1HPw" body="" modelElement="_Nfi0AP-IEe2AndfjqX1HPw"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_we89MP-IEe2AndfjqX1HPw" body="Create New Flight Customer" modelElement="_we4rwP-IEe2AndfjqX1HPw"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_a-zLoPh7Ee2THdcj88eCnA" body="" modelElement="_a-qowPh7Ee2THdcj88eCnA"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_ZLxKkP-IEe2AndfjqX1HPw" body="" modelElement="_ZLs5IP-IEe2AndfjqX1HPw"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_Hb7PQP-JEe2AndfjqX1HPw" body="Cancel trip" modelElement="_Hb4L8P-JEe2AndfjqX1HPw"/>
   <orgomg.cwm.foundation.businessinformation:Description xmi:id="_Wrf4wPXGEe6xip1fHPZcEg" body="Only to ONLINE Store!!! BAPI Read Cstmr to BO Cstmr (KNA1) - with CAM" modelElement="_WrYkAPXGEe6xip1fHPZcEg"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_JW0rIP-IEe2AndfjqX1HPw" body="Confirm Flight Booking" modelElement="_JWxn0P-IEe2AndfjqX1HPw"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_ka8dkPXBEe6xip1fHPZcEg" body="Only for ONLINE store!!! Customer: Change Customer" modelElement="_ka4MIPXBEe6xip1fHPZcEg"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_Ftxg0P-IEe2AndfjqX1HPw" body="Cancel Flight Booking" modelElement="_Ftt2cP-IEe2AndfjqX1HPw"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_1TRlQPXEEe6xip1fHPZcEg" body="Only for ONLINE Store!!! Check Personal Data of a Customer" modelElement="_1TMswPXEEe6xip1fHPZcEg"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_0NK7YP-IEe2AndfjqX1HPw" body="Create Internet user for a customer" modelElement="_0NHRAP-IEe2AndfjqX1HPw"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_yZYggPlcEe2THdcj88eCnA" body="Determine Details for a Material" modelElement="_yZUPEPlcEe2THdcj88eCnA"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_7Wot4P-HEe2AndfjqX1HPw" body="Find list of flights" modelElement="_7WkccP-HEe2AndfjqX1HPw"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_pWwLcP-IEe2AndfjqX1HPw" body="Change Internet password" modelElement="_pWshEP-IEe2AndfjqX1HPw"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_KoIFgP-JEe2AndfjqX1HPw" body="Create flight" modelElement="_KoD0EP-JEe2AndfjqX1HPw"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_tORPkP-IEe2AndfjqX1HPw" body="Check Internet password" modelElement="_tOOMQP-IEe2AndfjqX1HPw"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_3i59kP-HEe2AndfjqX1HPw" body="Find details about a flight" modelElement="_3i2TMP-HEe2AndfjqX1HPw"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="__dJQQP-HEe2AndfjqX1HPw" body="Save replicated flight data" modelElement="__dFl4P-HEe2AndfjqX1HPw"/>
   <orgomg.cwm.foundation.businessinformation:Description xmi:id="_N20PEP-JEe2AndfjqX1HPw" body="Get list of flight trips" modelElement="_N2v9oP-JEe2AndfjqX1HPw"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_yTbA8P-HEe2AndfjqX1HPw" body="Check flight availability" modelElement="_yTWIcP-HEe2AndfjqX1HPw"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_R2Ad8P-IEe2AndfjqX1HPw" body="Create Flight Booking" modelElement="_R18zkP-IEe2AndfjqX1HPw"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_VQ3bQP-IEe2AndfjqX1HPw" body="Determine list of flight bookings" modelElement="_VQ0X8P-IEe2AndfjqX1HPw"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_-anm8PcGEe6L_Mb2Cq55Yw" body="Determine Details for a Material" modelElement="_-aY9cPcGEe6L_Mb2Cq55Yw"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_CEhs4PcHEe6L_Mb2Cq55Yw" body="Create and Change Material Master Data" modelElement="_CEURgPcHEe6L_Mb2Cq55Yw"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_j7KFcP-IEe2AndfjqX1HPw" body="Change Flight Customer" modelElement="_j7F0AP-IEe2AndfjqX1HPw"/>
+  <orgomg.cwm.foundation.businessinformation:Description xmi:id="_TXDP4PlnEe2THdcj88eCnA" body="Reads customers and addresses" modelElement="_TXAzoPlnEe2THdcj88eCnA"/>
 </xmi:XMI>
