@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_K7rPsG-YEe-gh7ltE7Jw9Q" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_K7rPsW-YEe-gh7ltE7Jw9Q" comment="" name="hk_db_oauthProperties_oauthTokenEndpoint" prompt="hk_db_oauthProperties_oauthTokenEndpoint?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_K7r2wG-YEe-gh7ltE7Jw9Q" comment="" name="hk_db_loginTimeout" prompt="hk_db_loginTimeout?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="15"/>
+  <contextParameter xmi:id="_K7r2wW-YEe-gh7ltE7Jw9Q" comment="" name="hk_db_userPassword_userId" prompt="hk_db_userPassword_userId?" promptNeeded="false" repositoryContextId="" type="id_String" value="hkardouna"/>
+  <contextParameter xmi:id="_K7r2wm-YEe-gh7ltE7Jw9Q" comment="" name="hk_db_oauthProperties_scope" prompt="hk_db_oauthProperties_scope?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_K7r2w2-YEe-gh7ltE7Jw9Q" comment="" name="hk_db_oauthProperties_oauthUserName" prompt="hk_db_oauthProperties_oauthUserName?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_K7r2xG-YEe-gh7ltE7Jw9Q" comment="" name="hk_db_warehouse" prompt="hk_db_warehouse?" promptNeeded="false" repositoryContextId="" type="id_String" value="hk_dw"/>
+  <contextParameter xmi:id="_K7r2xW-YEe-gh7ltE7Jw9Q" comment="" name="hk_db_role" prompt="hk_db_role?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_K7r2xm-YEe-gh7ltE7Jw9Q" comment="" name="hk_db_userPassword_password" prompt="hk_db_userPassword_password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:9s/g2sObKT1TaQJAz9ZjBzgRVR9t/sFLJ3uFSZPABtIDKwJLQPue4w=="/>
+  <contextParameter xmi:id="_K7r2x2-YEe-gh7ltE7Jw9Q" comment="" name="hk_db_oauthProperties_oauthPassword" prompt="hk_db_oauthProperties_oauthPassword?" promptNeeded="false" repositoryContextId="" type="id_Password" value=""/>
+  <contextParameter xmi:id="_K7r2yG-YEe-gh7ltE7Jw9Q" comment="" name="hk_db_db" prompt="hk_db_db?" promptNeeded="false" repositoryContextId="" type="id_String" value="HK_DB"/>
+  <contextParameter xmi:id="_K7r2yW-YEe-gh7ltE7Jw9Q" comment="" name="hk_db_jdbcParameters" prompt="hk_db_jdbcParameters?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_K7r2ym-YEe-gh7ltE7Jw9Q" comment="" name="hk_db_oauthProperties_clientId" prompt="hk_db_oauthProperties_clientId?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_K7r2y2-YEe-gh7ltE7Jw9Q" comment="" name="hk_db_schemaName" prompt="hk_db_schemaName?" promptNeeded="false" repositoryContextId="" type="id_String" value="PUBLIC"/>
+  <contextParameter xmi:id="_K7r2zG-YEe-gh7ltE7Jw9Q" comment="" name="hk_db_account" prompt="hk_db_account?" promptNeeded="false" repositoryContextId="" type="id_String" value="Talend"/>
+  <contextParameter xmi:id="_K7r2zW-YEe-gh7ltE7Jw9Q" comment="" name="hk_db_keyAlias" prompt="hk_db_keyAlias?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_K7r2zm-YEe-gh7ltE7Jw9Q" comment="" name="hk_db_oauthProperties_clientSecret" prompt="hk_db_oauthProperties_clientSecret?" promptNeeded="false" repositoryContextId="" type="id_Password" value=""/>
+  <contextParameter xmi:id="_K7r2z2-YEe-gh7ltE7Jw9Q" comment="" name="hk_db_regionID" prompt="hk_db_regionID?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+</talendfile:ContextType>
