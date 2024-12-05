@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_kGAi8Kj4Ee-5YcPw-ZY-sg" name="SAP_Datasphere" id="_14Er0Kj3Ee-5YcPw-ZY-sg" label="SAP_Datasphere" DatabaseType="SAPHana" DriverClass="com.sap.db.jdbc.Driver" URL="jdbc:sap://1e21eb7b-8c3c-42be-b429-f5356d5aed37.hana.prod-eu10.hanacloud.ondemand.com:443?" Port="443" Username="SQL#QLIK" Password="enc:system.encryption.key.v1:WjRATI16/H5Y/Iu0Rt5ujptnT2myNGW3fZRGiVv6hFNTj0g52Frl+3dmiBMQmMXil6KZaMq6dqqeBoNT" ServerName="1e21eb7b-8c3c-42be-b429-f5356d5aed37.hana.prod-eu10.hanacloud.ondemand.com" DatasourceName="" FileFieldName="" SID="" SqlSynthax="" StringQuote="" NullChar="" DbmsId="saphana_id" ProductId="SAPHANA" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="" supportNLS="false">
+  <taggedValue xmi:id="_kGAi8aj4Ee-5YcPw-ZY-sg" tag="Is Conn Need Reload" value="false"/>
+  <taggedValue xmi:id="_kGOlYKj4Ee-5YcPw-ZY-sg" tag="package filter" value=""/>
+  <taggedValue xmi:id="_kGSPwKj4Ee-5YcPw-ZY-sg" tag="Status" value=""/>
+  <taggedValue xmi:id="_kGSPwaj4Ee-5YcPw-ZY-sg" tag="Version" value="0.1"/>
+  <taggedValue xmi:id="_kGSPwqj4Ee-5YcPw-ZY-sg" tag="Purpose" value=""/>
+  <taggedValue xmi:id="_kGSPw6j4Ee-5YcPw-ZY-sg" tag="Description" value=""/>
+  <taggedValue xmi:id="_kGSPxKj4Ee-5YcPw-ZY-sg" tag="Author" value=""/>
+  <taggedValue xmi:id="_kGSPxaj4Ee-5YcPw-ZY-sg" tag="otherParameter"/>
+  <parameters xmi:id="_kGAi8qj4Ee-5YcPw-ZY-sg" key="CONN_PARA_KEY_USERNAME" value="SQL#QLIK"/>
+</TalendMetadata:DatabaseConnection>
